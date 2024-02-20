@@ -1,2 +1,2 @@
 # Wireless-Geophone-
-A Open Source wireless geophone design built in parallel with SPECIES
+An Open Source wireless geophone design built in parallel with SPECIES
